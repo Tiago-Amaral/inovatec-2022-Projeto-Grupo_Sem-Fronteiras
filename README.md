@@ -9,14 +9,14 @@
 - Yasmin Ramos
 - Aline
 
-###Gestão Operacional/Organizacional###
+### Gestão Operacional/Organizacional ###
 
 - Alexandre 
 -  Alex 
 - Tiago
 - Davd
 
-###Gestão Marketing###
+### Gestão Marketing ###
 
 - Maycon Martins 
 - Leonardo Augusto
@@ -26,14 +26,14 @@
 
 Descrever os 5 passos para elaboração do projeto de inovação. Nesse contexto, os detalhes sobre o objetivo de cada passo estão disponíveis [aqui](https://academiapme-my.sharepoint.com/:w:/g/personal/marjory_dio_me/Efb7IK14WzJNhnx7wmDwh9gBydAUvsgfLgGvpanquISsZg). Basicamente, segue uma síntese de cada passo:
 
-##Metas## 
+## Metas ## 
 
  Marcamos uma reunião para definirmos o problemas que o nosso projeto iria resolver,
  nesta mesma reunião conseguimos definir o problema,  o público alvo, solução e o tipo de plataforma(App) que seria usado.
  Marcamos uma segunda reunião para refinarmos a nossa ideia e  definir as  funcionalidades do nosso app, após concluirmos as primeiras reuniões,     estruturamos o escopo do projeto usando a plataforma do miro
 
 
-##Planejamento##
+## Planejamento ##
 
 
 Utilizamos o método kanban para administrar nossas tarefas. Separamos as tarefas de desenvolvimento em:
@@ -44,7 +44,7 @@ Utilizamos o método kanban para administrar nossas tarefas. Separamos as tarefa
 
 
 
-##Desenvolvimento## 
+## Desenvolvimento ## 
 
 Como citado anteriormente, nossas reuniões aconteciam semanal, nas quais estávamos sempre fazendo ajustes na nossa ideia e retirando aquilo que não fazia mais sentido, isso cooperou para que a nossa ideia chegasse em um nível de qualidade que nós estávamos procurando.
 
