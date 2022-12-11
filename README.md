@@ -31,7 +31,7 @@
  Marcamos uma segunda reunião para refinarmos a nossa ideia e  definir as  funcionalidades do nosso app, após concluirmos as primeiras reuniões,     estruturamos o escopo do projeto usando a plataforma do miro
  
 <div align="center">
- <imgsrc="https://user-images.githubusercontent.com/97295520/206881179-7dd8aee8-ee82-4b46-91dd-8381f83b34e5.jpg"/>
+ <img src="https://user-images.githubusercontent.com/97295520/206881179-7dd8aee8-ee82-4b46-91dd-8381f83b34e5.jpg"/>
 </div>
 
 ## Planejamento ##
