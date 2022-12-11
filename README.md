@@ -59,7 +59,7 @@ Ao definirmos o que cada um iria fazer, percebemos que parte do grupo não estav
 
 
 
-##Avaliação
+## Avaliação
 
 Coletamos alguns  feedbacks de Profissionais Autonomos, essas foram a visão e  beneficios que o App traria para eles:
 
