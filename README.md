@@ -1,4 +1,4 @@
-# Projeto de Inovação (Inovatec 2022)
+# Projeto de Inovação (Inovatec 2022) Grupo Sem Fronteiras
 
 ## Integrantes 
 
@@ -22,9 +22,7 @@
 - Leonardo Augusto
 - Laise     
 
-## Passos
 
-Descrever os 5 passos para elaboração do projeto de inovação. Nesse contexto, os detalhes sobre o objetivo de cada passo estão disponíveis [aqui](https://academiapme-my.sharepoint.com/:w:/g/personal/marjory_dio_me/Efb7IK14WzJNhnx7wmDwh9gBydAUvsgfLgGvpanquISsZg). Basicamente, segue uma síntese de cada passo:
 
 ## Metas ## 
 
