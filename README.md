@@ -59,8 +59,26 @@ Ao definirmos o que cada um iria fazer, percebemos que parte do grupo não estav
 
 
 
-- 4º Passo: Avaliar o projeto de inovação, coletando e analisando os feedbacks;
+##Avaliação
 
+Coletamos alguns  feedbacks de Profissionais Autonomos, essas foram a visão e  beneficios que o App traria para eles:
+
+Geisa Souza
+"Me ajudaria bastante, pois muitas                                                                 
+vezes busco clientes,mais sem 
+recomendações fica difícil a
+pessoa confiar no trabalho a ser feito."
+
+Gleice Manuele
+"Muito importante esse App, principalmente
+pra quebrar certos tipos de preconceito e 
+ajuda trazer o sustento pra família."
+
+Daniele Alfaiate
+"Eu tenho um pequeno negócio e as
+pessoas na minha rua mesmo não sabe que tenho
+porque não consigo divulgar, seria de grande serventia
+um aplicativo com essas funcionalidades.""
 
 
 
