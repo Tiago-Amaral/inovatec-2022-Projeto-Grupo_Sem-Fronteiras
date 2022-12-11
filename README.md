@@ -2,7 +2,7 @@
 
 ## Integrantes 
 
-###Gestão Executiva:###
+### Gestão Executiva: ###
 
 - Jorge 
 - Andressa
