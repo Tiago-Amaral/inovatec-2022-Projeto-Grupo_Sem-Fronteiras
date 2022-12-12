@@ -95,6 +95,6 @@ Yasmin Ramos (Gestão Executiva): Responsavel pela introdução da apresentaçã
 Alexandre de Souza (Gestão Operacional): Responsavel por detalhar as funcionalidades do projeto.
 Maycon Martins (Gestão Marketing): Responsavel por apresentar a identidade visual e conceitual do projeto.
 
-Slide da apresentação [aqui] (https://docs.google.com/presentation/d/1XbWHtZsqfHe57zuFJ-GyjOAdHDsvhw-ZcbntnfhoWYg/edit?usp=sharing).
+Slide da apresentação [aqui](https://docs.google.com/presentation/d/1XbWHtZsqfHe57zuFJ-GyjOAdHDsvhw-ZcbntnfhoWYg/edit?usp=sharing).
 
 
