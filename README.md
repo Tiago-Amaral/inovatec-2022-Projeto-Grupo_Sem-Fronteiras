@@ -5,10 +5,9 @@
 ### Gestão Executiva: ###
 
 - Jorge 
-- Andressa ( Contribuição: Auxilio na estruturação da ideia.)
-- Yasmin Ramos ( Contribuição: Auxilio na estruturação da ideia, Criação de slide, Organização de tarefas, marcação de reuniões.)
-- Aline ( Contribuição: Auxilio na estruturação da ideia.)
-
+- Andressa (Contribuição: Auxilio na estruturação da ideia.)
+- Yasmin Ramos (Contribuição: Auxilio na estruturação da ideia, Criação de slide, Organização de tarefas, marcação de reuniões.)
+- Aline (Contribuição: Auxilio na estruturação da ideia.)
 ### Gestão Operacional/Organizacional ###
 
 - Alexandre (Contribuição: estruturação da ideia, construção do escopo, desenvolvimento dos layouts no Figma, Auxilio na documentação, Auxilio na Logo/identidade visual.) 
@@ -65,7 +64,7 @@ Coletamos alguns  feedbacks de Profissionais Autonomos, essas foram a visão e  
 
 #### Geisa Souza ####
 "Me ajudaria bastante, pois muitas                                                                 
-vezes busco clientes,mais sem 
+vezes busco clientes,mas sem 
 recomendações fica difícil a
 pessoa confiar no trabalho a ser feito."
 
@@ -82,18 +81,11 @@ um aplicativo com essas funcionalidades.""
 
 
 
-
-
-
-
-
-
-
 ## Pitch
 
-Yasmin Ramos (Gestão Executiva): Responsavel pela introdução da apresentação do projeto.
-Alexandre de Souza (Gestão Operacional): Responsavel por detalhar as funcionalidades do projeto.
-Maycon Martins (Gestão Marketing): Responsavel por apresentar a identidade visual e conceitual do projeto.
+Yasmin Ramos (Gestão Executiva): Responsável pela introdução da apresentação do projeto.
+Alexandre de Souza (Gestão Operacional): Responsável por detalhar as funcionalidades do projeto.
+Maycon Martins (Gestão Marketing): Responsável por apresentar a identidade visual e conceitual do projeto.
 
 #### Slide da apresentação [aqui](https://docs.google.com/presentation/d/1XbWHtZsqfHe57zuFJ-GyjOAdHDsvhw-ZcbntnfhoWYg/edit?usp=sharing).
 
