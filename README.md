@@ -87,10 +87,14 @@ um aplicativo com essas funcionalidades.""
 
 
 
-- 5º Passo: Apresentar do projeto na feira de inovação 🚀
+
 
 ## Pitch
 
-Descrição do Pitch (quem vai falar o que na apresentação, ordem da apresentação etc). Nesse sentido, um vídeo de Pitch pode ser criado e disponibilizado aqui (através de um link), facilitando o entendimento/compartilhamento do seu projeto de inovação. 
+Yasmin Ramos (Gestão Executiva): Responsavel pela introdução da apresentação do projeto.
+Alexandre de Souza (Gestão Operacional): Responsavel por detalhar as funcionalidades do projeto.
+Maycon Martins (Gestão Marketing): Responsavel por apresentar a identidade visual e conceitual do projeto.
 
-Por fim, links de slides e materiais complementares (que podem apoiar o entendimento do projeto de inovação) também podem ser disponibilizados nesta seção.
+Slide da apresentação [aqui] (https://docs.google.com/presentation/d/1XbWHtZsqfHe57zuFJ-GyjOAdHDsvhw-ZcbntnfhoWYg/edit?usp=sharing).
+
+
