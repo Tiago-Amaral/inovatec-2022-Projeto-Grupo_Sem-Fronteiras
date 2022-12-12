@@ -1,4 +1,4 @@
-# Projeto de Inovação (Inovatec 2022) Grupo: Sem Fronteiras
+# Projeto de Inovação (Inovatec 2022) Squad Sem Fronteiras
 
 ## Integrantes 
 
