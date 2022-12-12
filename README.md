@@ -5,20 +5,20 @@
 ### Gestão Executiva: ###
 
 - Jorge 
-- Andressa
-- Yasmin Ramos
-- Aline
+- Andressa ( Contribuição: Auxilio na estruturação da ideia.)
+- Yasmin Ramos ( Contribuição: Auxilio na estruturação da ideia, Criação de slide, Organização de tarefas, marcação de reuniões.)
+- Aline ( Contribuição: Auxilio na estruturação da ideia.)
 
 ### Gestão Operacional/Organizacional ###
 
-- Alexandre 
--  Alex 
-- Tiago
+- Alexandre (Contribuição: estruturação da ideia, construção do escopo, desenvolvimento dos layouts no Figma, Auxilio na documentação, Auxilio na Logo/identidade visual.) 
+- Alex 
+- Tiago (Contribuição: Ideia do nome do projeto, estruturação da ideia, construção do escopo, desenvolvimento dos layouts no Figma, Auxilio na documentação, Auxilio na Logo/identidade visual.)
 - Davd
 
 ### Gestão Marketing ###
 
-- Maycon Martins 
+- Maycon Martins (Contribuição: Paleta de cores, ajuda da construção da identidade visual, Auxilio na ideação do projeto, Participação da apresentação no Pich.)
 - Leonardo Augusto
 - Laise     
 
