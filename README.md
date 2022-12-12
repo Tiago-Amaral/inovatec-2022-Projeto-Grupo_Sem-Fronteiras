@@ -1,4 +1,4 @@
-# Inovatec 2022 - Projeto de Inovação  Squad Sem Fronteiras
+# Inovatec 2022 - Projeto de Inovação - Squad Sem Fronteiras
 
 ## Integrantes 
 
