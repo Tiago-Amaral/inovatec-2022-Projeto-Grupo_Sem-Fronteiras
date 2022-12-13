@@ -13,7 +13,7 @@
 - Alexandre (Contribuição: estruturação da ideia, construção do escopo, desenvolvimento dos layouts no Figma, Auxilio na documentação, Auxilio na Logo/identidade visual.) 
 - Alex 
 - Tiago (Contribuição: Ideia do nome do projeto, estruturação da ideia, construção do escopo, desenvolvimento dos layouts no Figma, Auxilio na documentação, Auxilio na Logo/identidade visual.)
-- Davd
+- Deivid
 
 ### Gestão Marketing ###
 
