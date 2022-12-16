@@ -17,7 +17,7 @@
 
 ### Gestão Marketing ###
 
-- Maycon Martins (Contribuição: Paleta de cores, ajuda da construção da identidade visual, Auxilio na ideação do projeto, Participação da apresentação no Pich.)
+- Maycon Martins (Contribuição: Paleta de cores, ajuda da construção da identidade visual, Auxilio na ideação do projeto, Participação da apresentação no Pitch.)
 - Leonardo Augusto
 - Laise     
 
