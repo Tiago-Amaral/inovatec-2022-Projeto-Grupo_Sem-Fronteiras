@@ -25,9 +25,9 @@
 
 ## Metas ## 
 
- Marcamos uma reunião para definirmos o problemas que o nosso projeto iria resolver,
+ Marcamos uma reunião para definirmos o problema que o nosso projeto iria resolver,
  nesta mesma reunião conseguimos definir o problema,  o público alvo, solução e o tipo de plataforma(App) que seria usado.
- Marcamos uma segunda reunião para refinarmos a nossa ideia e  definir as  funcionalidades do nosso app, após concluirmos as primeiras reuniões,     estruturamos o escopo do projeto usando a plataforma do miro
+ Marcamos uma segunda reunião para refinarmos a nossa ideia e  definir as  funcionalidades do nosso aplicativo, após concluirmos as primeiras reuniões,     estruturamos o escopo do projeto usando a plataforma do miro
  
 <div align="center">
  <img src="https://user-images.githubusercontent.com/97295520/206881179-7dd8aee8-ee82-4b46-91dd-8381f83b34e5.jpg"/>
